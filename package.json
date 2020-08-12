@@ -1,0 +1,12 @@
+{
+    "name": "CursoRasp",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_SONY-PC.json",
+            "credentialsFile": "flows_SONY-PC_cred.json"
+        }
+    }
+}
